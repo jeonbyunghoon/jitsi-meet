@@ -186,7 +186,8 @@ class WelcomePage extends AbstractWelcomePage {
                     <div className = 'header-image' />
                     <div className = 'header-text'>
                         <h1 className = 'header-text-title'>
-                            { t('welcomepage.title') }
+                           // { t('welcomepage.title') }
+		           안전하고, 완벽한 기능을 갖춘 완전 무료 화상 회의
                         </h1>
                         <p className = 'header-text-description'>
                             { t('welcomepage.appDescription',
